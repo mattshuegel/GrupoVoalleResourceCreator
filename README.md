@@ -12,7 +12,7 @@ Veja um exemplo de utilização abaixo:
 
 ## Configuration
 
-This extension can be configured in User Settings or Workspace settings.
+A Extensão pode ser configurada como configuração de usuário ou de Workspace.
 
 `"grupo-voalle-resource-creator.projectBasePath": ''`  
 Essa configuração é obrigatória e é utilizada para indicar o caminho
