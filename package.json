@@ -2,7 +2,7 @@
   "name": "grupo-voalle-resource-creator",
   "displayName": "Grupo Voalle Resource Creator",
   "description": "Criador de recursos de internacionalização do Grupo Voalle",
-  "publisher": "Grupo Voalle",
+  "publisher": "GrupoVoalleResourceCreator",
   "icon": "icon.png",
   "author": {
     "name": "Josué Freitas"
